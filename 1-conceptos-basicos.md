@@ -1,7 +1,5 @@
 # Arquitectura de Software
 
----
-
 ## Sistemas de Patrones
 
 - Patrones de Arquitectura
